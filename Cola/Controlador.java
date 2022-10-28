@@ -1,10 +1,6 @@
 import java.util.Random;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author cmateo
- */
 public class Controlador {
 
     Cola filaEspera = new Cola();
